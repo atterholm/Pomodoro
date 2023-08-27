@@ -1,4 +1,4 @@
-from tkinter import * #For neccesary GUI componants
+from tkinter import * #For neccesary GUI components
 import math #To round down float numbers
 # ---------------------------- CONSTANTS ------------------------------- #
 PINK = "#e2979c"
